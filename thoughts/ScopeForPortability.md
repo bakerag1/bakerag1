@@ -1,3 +1,7 @@
+---
+layout: post
+title: maven dependency scope
+---
 # Keeping your code portable with Maven dependency scope
 If you, as you should, try to keep your code portable by avoiding imports of implementations of standards, such as JAX-RS, JPA, or Bean Validation, you might find yourself accidentally importing the wrong packages, because they are both on your classpath. It is all to easy to accidentally bring these dependencies into your code, they frequently have the same name and the compiler will suggest them. Maven has a clever parameter in the dependency model that many don't know, don't use, or don't understand. It's called *scope* and is a familiar term to programmers, but they seem to forget that maven dependencies, as with variables, you should try to limit their scope. The names of the scope aren't very intuitive, but they make sense with a little thought.
 

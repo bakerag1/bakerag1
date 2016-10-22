@@ -1,4 +1,8 @@
-Auto-Complete as a Design Tool
+---
+layout: post
+title: Auto-Complete as a Design Tool
+---
+#Auto-Complete as a Design Tool
 
 **UML is a great tool** for sharing design concepts without a lot of baggage in the way. There are at least three problems with sharing an idea in UML:
 

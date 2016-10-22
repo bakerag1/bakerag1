@@ -1,3 +1,7 @@
+---
+layout: post
+title: in defense of bright, shiny objects
+---
 # statement
 We get warned a lot about going after what's new, for the novelty of it. But new things don't come from the ether, they come from people being unsatisfied with the current offerings. So, we know that the new thing is at least an attempt to move forward, whereas the old thing is just the old thing. You might be able to move forward with the old thing, but just because it's the old thing doesn't mean you can, anymore than it being the new thing means that it will be worse. There are a lot of old things worth keeping for a lot of reasons. I don't need to defend those, status quo is self-defending. I would like to speak in favor of the shiny new thing and in favor of migrating to it.
 
