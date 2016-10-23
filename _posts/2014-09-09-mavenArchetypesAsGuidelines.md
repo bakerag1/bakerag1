@@ -2,7 +2,7 @@
 layout: post
 title: Maven Archetypes as Standards
 ---
-#theoria
+# theoria
 
 **For standardizing across projects, guideline documents are great** but even better is when there are processes in place to get things started reliably in line with guidance. Eclipse has code templates and style settings that can make your code perfectly formatted, but it doesn't do much for project structure, naming and standard configuration. That's where maven archetypes come in. It is satisfying to automate processes that you know are only minor modifications on previous work, so when you find a project that you feel in your bones will be duplicated, **take it upon yourself to make it worth copying, and easy to copy**, create an archetype! When you are inevitably asked how to start on a project like the one they heard you worked on, you can tell them, "Run the archetype and you will have all the grunt work done, then you can do the programmer part." Then when they ask follow-up questions, you are already a little bit familiar with the project.
 
