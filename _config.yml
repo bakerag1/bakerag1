@@ -1,0 +1,8 @@
+gems:
+  - jekyll-archives
+
+jekyll-archives:
+  enabled: ['day']
+  layout: 'archive'
+  permalinks:
+    day: '/:year/:month/:day/'
